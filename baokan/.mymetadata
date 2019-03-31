@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="baokan"
+  id="myeclipse.1498559331619"
+  context-root="/baokan"
+  j2ee-spec="5.0"
+  archive="baokan.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
